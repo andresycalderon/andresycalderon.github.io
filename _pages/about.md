@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an economist, currently working as a Consultant at the Inter-American Development Bank (IDB). My research interests are in Development and Public Economics, mainly focused on the Personnel of the State. 
+I am a Colombian economist, currently working as a Consultant at the Inter-American Development Bank (IDB). My research interests are in Development and Public Economics, mainly focused on the Personnel of the State. 
 
 I am finishing my Master in Economics at Universidad del Rosario. I have a B.A. in Economics from Universidad Industrial de Santander. Before joining the IDB, I worked at the Department of Economics at Universidad del Rosario and Banco de la República (the Central Bank of Colombia).
 
