@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 3"
+title: "The impact of discretionary hiring on bureaucrats’ corruption perceptions, satisfaction, and the mishandling of public resources"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
