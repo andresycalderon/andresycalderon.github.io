@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Colombian aspiring economist currently serving as Research Fellow within the Institutions for Development Sector at the Inter-American Development Bank (IDB). My primary research interests lie in the fields of Development and Public Economics, with a specific focus on state personnel.
+I am a Colombian aspiring economist currently serving as a Research Fellow within the Institutions for Development Sector at the Inter-American Development Bank (IDB). My primary research interests lie in the fields of Development and Public Economics, with a specific focus on state personnel.
 
 I hold a Master's degree in Economics from Universidad del Rosario and completed my Bachelor's degree in Economics at Universidad Industrial de Santander. Prior to my current role at the IDB, I worked at Universidad del Rosario and Banco de la República, the Central Bank of Colombia.
 
